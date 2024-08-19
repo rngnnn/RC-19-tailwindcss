@@ -25,8 +25,8 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil, cumque assumend
         <p className='underline' >Typohraphy</p>
         <p className='line-through' >Typohraphy</p>
         <p className='text-red-300' >Typohraphy</p>
-        <p className='text-4xl' >Typohraphy</p>
-        <p className='text-6xl' >Typohraphy</p>
+        <p className='text-green-500' >Typohraphy</p>
+        <p className='text-6xl text-[rgb(154,200,205)]' >Typohraphy</p>
         <p className='text-[75px]' >Typohraphy</p>
 
     </div>
