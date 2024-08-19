@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/** element bazında default olarak vermek istediğimiz stilleri base layer'da veriyoruz */
+@layer base {
+    /** apply methodu ile tailwind classlarını kullanabiliyoruz */
+    h1 {
+        @apply text-center text-2xl font-bold;
+
+    }
+}
