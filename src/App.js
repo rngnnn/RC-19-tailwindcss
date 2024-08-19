@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <div className="bg" >
+    <div className="bg-slate-600 h-screen" >
       TailwindCss
     </div>
   );
